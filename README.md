@@ -1,7 +1,7 @@
 # URCA Project
 <p align="center">
 
-  <img src= "https://github.com/bernabepomar/URCA-Project/Images/URCA%20Logo.png" alt="Urca Logo" width= "600" height="600" class="center"> 
+  <img src= "https://github.com/bernabepomar/URCA-Project/tree/main/Images/URCA%20Logo.png" alt="Urca Logo" width= "600" height="600" class="center"> 
 
 </p>
 
